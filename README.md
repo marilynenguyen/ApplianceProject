@@ -1,5 +1,5 @@
 # ApplianceProject
-Academic Project - Fall 2022
+Academic Project - Fall 2022 : 
 Object-Oriented Programming II Course - Project 1 
 
 This project was a collaboration with my friend. We got a better understanding of classes, constructors,
